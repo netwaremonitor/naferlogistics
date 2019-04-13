@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":9,"title":"Presentacion  Nafer Logistic.cdr","author":"Francisco ..","fileName":"naferlogstics.pdf","bounds":[[1100,684],[1100,684],[1100,684],[1100,684],[1100,684],[1100,684],[1100,684],[1100,684],[1100,684]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
